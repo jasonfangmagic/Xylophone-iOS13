@@ -19,12 +19,7 @@ class ViewController: UIViewController {
         print("I got pressed")
     }
     
-<<<<<<< HEAD
-    //test 2
-=======
-    //test github
-    
->>>>>>> master
+//github test
 
 }
 
