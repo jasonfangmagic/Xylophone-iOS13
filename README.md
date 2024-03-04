@@ -10,5 +10,9 @@ Hover over dot -> hold option key -> drag to buttons <br>
 # 4. You can also assign a datatype <br>
 <img width="553" alt="image" src="https://github.com/jasonfangmagic/Xylophone-iOS13/assets/87825019/42552233-e6c6-482f-bd09-07ebf4734e8d">
 
+# 5. Create a function<= <br>
+<img width="896" alt="image" src="https://github.com/jasonfangmagic/Xylophone-iOS13/assets/87825019/c97beace-9841-414e-8880-38a95a64f0bf">
+
+
 
 
