@@ -13,6 +13,11 @@ Hover over dot -> hold option key -> drag to buttons <br>
 # 5. Create a function<= <br>
 <img width="896" alt="image" src="https://github.com/jasonfangmagic/Xylophone-iOS13/assets/87825019/c97beace-9841-414e-8880-38a95a64f0bf">
 
+# 6. Optional String
+Could have a button the title doesn't exist. Force you to check if all buttons have titles
+<img width="862" alt="image" src="https://github.com/jasonfangmagic/Xylophone-iOS13/assets/87825019/a2d43bf7-80f0-4095-87f7-4d0de76bec18">
+<img width="727" alt="image" src="https://github.com/jasonfangmagic/Xylophone-iOS13/assets/87825019/ce1df61c-d1c6-412c-b134-fd85fe9f793c">
+
 
 
 
